@@ -9,4 +9,4 @@ AdPie SDK를 찾아주셔서 감사합니다.
 SDK 연동은 [연동가이드](https://github.com/gomfactory/AdPie-Web-SDK/wiki) 에서 확인할 수 있습니다.
 
 # 문의
-도움이 필요하시다면 email [support@gomfactory.com] 로 문의하시기 바랍니다.
+도움이 필요하시다면 email [adpie@adxcorp.kr] 로 문의하시기 바랍니다.
